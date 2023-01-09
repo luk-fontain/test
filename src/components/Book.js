@@ -4,7 +4,7 @@ const Book = ({ title, author }) => {
     return (
         <div className="container">
             <div>
-                <h3>Titel:{title}</h3>
+                <h3>Titel: {title}</h3>
                 <p>Author: {author}</p>
             </div>
         </div>
