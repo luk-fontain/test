@@ -12,6 +12,7 @@ function App() {
 
   return (
     <BookContextProvider>
+    <h1>Hallo</h1>
       <div className="App">
         <Navbar />
         <AddBook />
