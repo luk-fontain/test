@@ -6,11 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BookContextProvider } from "./Context/BookContext";
 
 function App() {
-
-
-
-
-  return (
+return (
     <BookContextProvider>
     
       <div className="App">
